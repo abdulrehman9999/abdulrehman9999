@@ -1,8 +1,7 @@
 <h1 align="center">Hi <marquee behavior="top" direction="bottom">👋, </marquee> I'm ABDUL REHMAN</h1>
 <h3 align="center">A passionate frontend developer from Pakistan</h3>
 
-<img align="right" alt="Coding" width="400" src="![image](https://github.com/abdulrehman9999/abdulrehman9999/assets/154054403/d814b6ae-5bf5-41d7-9bdd-b1f51b4f994c)
-">
+<img align="right" alt="Coding" width="400" src="https://github.com/abdulrehman9999/abdulrehman9999/assets/154054403/f451ac54-c23e-40a1-9a66-82663caefefd">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=abdulrehman9999&label=Profile%20views&color=0e75b6&style=flat" alt="abdulrehman9999" /> </p>
 
