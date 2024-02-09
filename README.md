@@ -1,7 +1,7 @@
 <h1 align="center">Hi <marquee behavior="top" direction="bottom">👋, </marquee> I'm ABDUL REHMAN</h1>
 <h3 align="center">A passionate frontend developer from Pakistan</h3>
 
-<img align="right" alt="Coding" width="400" src="https://media1.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif">
+<img align="right" alt="Coding" width="400" src="https://i.pinimg.com/originals/0a/4f/d0/0a4fd06b323085d5733dc7217f8235f8.gif">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=abdulrehman9999&label=Profile%20views&color=0e75b6&style=flat" alt="abdulrehman9999" /> </p>
 
